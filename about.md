@@ -6,11 +6,11 @@ tags: about
 ---
 
 
-I’m a thirtysomething male resident of Atlanta, GA where I live with my wife and two sons. 
+I’m a fourty-something male resident of Atlanta, GA where I live with my wife and two sons.
 
 To contact me, write to brian at polibyte.com.
 
-You can download a nicely-formatted PDF of my resume [here](/files/brian_pitts_resume.pdf).
+You can download a PDF of my resume [here](/files/brian_pitts_resume.pdf).
 
 I'm active to varying degrees at the following virtual places:
 
@@ -20,4 +20,3 @@ I'm active to varying degrees at the following virtual places:
 *  [Hacker News](http://news.ycombinator.com/user?id=sciurus)
 *  [Reddit](https://www.reddit.com/user/puerexmachina/)
 *  [Server Fault](http://serverfault.com/users/71515/sciurus)
-*  [Twitter](https://twitter.com/sciurus)
